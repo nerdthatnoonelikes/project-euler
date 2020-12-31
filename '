@@ -1,0 +1,6 @@
+pub fn run() {
+    let mut primefactors = Vec::new();
+    for i in 1..600851475143 {
+        
+    } 
+}

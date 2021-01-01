@@ -4,6 +4,7 @@ mod problem3;
 mod problem4;
 mod problem5;
 mod problem6;
+mod problem7;
 fn main() {
    problem1::run();
    problem2::run(); 
@@ -11,4 +12,5 @@ fn main() {
    problem4::run();
    problem5::run();
    problem6::run();
+   problem7::run();
 }
